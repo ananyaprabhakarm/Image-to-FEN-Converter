@@ -1,4 +1,4 @@
-# Chess diagram to FEN
+# Image to FEN
 
 Extract the FEN out of images of chess diagrams.
 
